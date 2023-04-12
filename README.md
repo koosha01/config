@@ -1,2 +1,1 @@
-# config
-My Config files
+Here I store some of my config files.
